@@ -1,1 +1,1 @@
-# vitis
+# This is a small testing project which I made while attending Software Tester cources at SD Academy
